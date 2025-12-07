@@ -1,4 +1,4 @@
-name: "Rust Linux GNU Builder"
+name: "Rust Linux GNU 2.17 Builder"
 description: "Build rust binary linked to glibc 2.17 (CentOS 7.9)"
 author: Bright Xu
 inputs:
