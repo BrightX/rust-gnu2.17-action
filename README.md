@@ -1,6 +1,9 @@
 Rust Linux GNU Builder Action
 ========================
 
+![GitHub](https://img.shields.io/github/license/BrightX/rust-gnu2.17-action)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/BrightX/rust-gnu2.17-action)
+
 GitHub action for building rust binaries linked to glibc 2.17 (x86_64-unknown-linux-gnu - based on CentOS 7).
 
 > For EOL Linux distribution, CentOS 7, Ubuntu 14 ~ 18, etc.
