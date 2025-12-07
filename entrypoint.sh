@@ -24,6 +24,7 @@ fi
 
 export CARGO_HOME=$PWD/.cargo
 
+source /opt/rh/devtoolset-11/enable
 
 if [ "x$2" != "x" ]; then
     (cd $2 && $CARGO_HOME/bin/cargo $1)
